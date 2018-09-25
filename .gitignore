@@ -1,0 +1,13 @@
+# Jekyll
+_site
+.jekyll-metadata
+.publish
+
+# Gulp
+.sass-cache
+
+# Node
+node_modules
+
+# System
+.DS_Store

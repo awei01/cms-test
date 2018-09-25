@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <h1>{{ site.data.site.url }} sd</h1>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <!--startjs-->
+    {% include js-custom.html %}
+    <!--endjs-->
+  </body>
+
+</html>
