@@ -1,9 +1,12 @@
 ---
+title: Welcome to Jekyll!
+date: 2016-05-26 13:18:26 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-26 15:18:26 +0200
-categories: jekyll update
 ---
+
 # {{ site.data.site.url }} ser
 # {{ site.site.url }} ser
 
