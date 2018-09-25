@@ -5,7 +5,7 @@ date:   2016-05-26 15:18:26 +0200
 categories: jekyll update
 ---
 
-# http://www.google.com ser
+# {{ site.data.site.url }} ser
 
 # funkly ser {{ site.email }}
 
