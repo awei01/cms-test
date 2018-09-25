@@ -1,13 +1,13 @@
 ---
 title: Welcome to Jekyll!
-date: 2016-05-26 13:18:26 Z
+date: 2016-05-26 13:18:00 Z
 categories:
 - jekyll
 - update
 layout: post
 ---
 
-# {{ site.data.site.url }} ser
+# {{ site.data.site.url }} serawer
 # {{ site.site.url }} ser
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
