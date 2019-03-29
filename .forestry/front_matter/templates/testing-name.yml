@@ -9,9 +9,6 @@ fields:
   config:
     required: true
 - type: text
-  name: title
-  label: title
-- type: text
   name: source_title
   label: source title
 pages:
