@@ -8,3 +8,6 @@ fields:
   description: this is a name
   config:
     required: true
+- type: text
+  name: title
+  label: title
