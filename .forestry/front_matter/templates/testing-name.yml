@@ -11,5 +11,8 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: source_title
+  label: source title
 pages:
 - _test_collection/asdf.md
