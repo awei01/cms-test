@@ -17,8 +17,8 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: ''
-public_path: "/media"
+upload_dir: forestry
+public_path: "/forestry"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
