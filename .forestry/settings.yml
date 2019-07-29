@@ -17,7 +17,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: media
+upload_dir: ''
 public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: 
