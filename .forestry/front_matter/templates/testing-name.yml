@@ -17,4 +17,5 @@ fields:
     required: false
   label: title
 pages:
+- _test_collection/austin-test-collection-i-love-my-9tailors-shirts-it-s-nice-to-have-something-made-exactly-for-me-instead-of-off-the-rack-shirts-i-can-finally-get-sleeves-that-fit-me-right-it-s-a-cool-feeling-to-have-a-completely-unique-shirt-i-love-my-9tailors-shirts-it-.md
 - _test_collection/test.md
